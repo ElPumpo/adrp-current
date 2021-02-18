@@ -1,0 +1,33 @@
+Locales['en'] = {
+  ['gps_info'] = '~b~Radio: A new shipwreck has been marked on your ~y~GPS~s~',
+  ['cancel_mission'] = 'you have ~r~cancelled~s~ the mission',
+  ['end_service'] = 'end Service',
+  ['take_service'] = 'enter Service',
+  ['end_service_notif'] = 'you went off duty',
+  ['take_service_notif'] = 'service has ~s~started~s~. Press ~b~F9~s~ when you\'re ready for an assignment',
+  ['vehicle_spawner_menu'] = 'choose Job Vehicle',
+  ['in_vehicle'] = '~r~You can\'t be in an vehicle for this!',
+  ['vehicle_broken'] = '~r~You need to repair the vehicle before continuing!~s~',
+  ['bad_vehicle'] = 'you can only store the ~b~Service Vehicle~s~',
+  ['not_good_veh'] = '~r~You must be in your service vehicle to get an assigment!',
+  ['stop_npc'] = 'job ~g~complete~s~: Return to the depot.',
+  ['salvage_collected'] = 'salvage has been collected, ~g~move on~s~.',
+  ['locker_title'] = 'job locker',
+  ['locker_nooutfit'] = 'your outfit is missing!',
+
+  ['sell_cashing'] = '~g~Cashing~s~ bills...',
+  ['sell_nobills'] = '~r~You don\'t have any bills to cash',
+  ['sell_nomorebills'] = '~r~You don\'t have any more bills to cash',
+  ['sell_earned'] = 'you got paid ~g~$%s~s~ for 1x ~y~Salvage~s~',
+
+  ['blip_locker'] = 'Ocean Salvage',
+  ['blip_vehicle'] = 'O.S: Boat Garage',
+  ['blip_vehicledeleter'] = 'O.S: Return Boat',
+  ['blip_cashout'] = 'O.S: Cash Out',
+
+  ['prompt_locker'] = 'press ~INPUT_CONTEXT~ to access the ~y~Job Locker~s~.',
+  ['prompt_vehicle'] = 'press ~INPUT_CONTEXT~ to ~y~Select Job Vehicle~s~.',
+  ['prompt_vehicledeleter'] = 'press ~INPUT_CONTEXT~ to ~y~Return Job Vehicle~s~.',
+  ['prompt_cashout'] = 'press ~INPUT_CONTEXT~ to turn in ~y~Collected Salvage~s~.',
+  ['prompt_blowtorch'] = 'press ~INPUT_CONTEXT~ use your ~y~Blowtorch~s~.',
+}

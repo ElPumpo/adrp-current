@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#policebadge {
+	position: absolute;
+	width: 600px;
+	height: 411px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url('polID.png');
+	bottom: 430px;
+	right: 50px;
+	font-weight: 700;
+	font-size: 0.9em
+}
+
+#bcso {
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url('bcso.png');
+	bottom: 500px;
+	right: 355px;
+}
+
+#lspd {
+	position: absolute;
+	width: 350px;
+	height: 250px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url('lspd.png');
+	bottom: 505px;
+	right: 305px;
+}
+
+#sahp {
+	position: absolute;
+	width: 195px;
+	height: 195px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url('sahp.png');
+	bottom: 520px;
+	right: 390px;
+}
+
+#marshal {
+	position: absolute;
+	width: 195px;
+	height: 195px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url('marshal.png');
+	bottom: 527px;
+	right: 388px;
+}
+
+#fib {
+	position: absolute;
+	width: 195px;
+	height: 195px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url('fib.png');
+	bottom: 527px;
+	right: 388px;
+}
+
+#doj {
+	position: absolute;
+	width: 195px;
+	height: 195px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url('doj.png');
+	bottom: 527px;
+	right: 388px;
+}
+
+#dod {
+	position: absolute;
+	width: 195px;
+	height: 195px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url('dod.png');
+	bottom: 527px;
+	right: 388px;
+}
+
+#fullname {
+	position: absolute;
+	top: 172px;
+	left: 365px;
+	width: 150px;
+	height: 15px;
+	text-align: center;
+	line-height: 15px;
+	font-size: 15px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#job {
+	position: absolute;
+	top: 234px;
+	left: 365px;
+	width: 150px;
+	height: 15px;
+	text-align: center;
+	line-height: 15px;
+	font-size: 15px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#badgeid {
+	position: absolute;
+	top: 295px;
+	left: 380px;
+	width: 120px;
+	height: 15px;
+	text-align: center;
+	line-height: 15px;
+	font-size: 15px;
+	font-family: 'Montserrat', sans-serif;
+}

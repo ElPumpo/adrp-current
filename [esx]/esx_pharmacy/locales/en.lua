@@ -1,0 +1,19 @@
+Locales['en'] = {
+  ['firstaidkit']         = 'First-aid kit',
+  ['defibrillateur']      = 'Defibrillator',
+  ['yes']                 = 'Yes',
+  ['no']                  = 'No',
+  ['press_menu']          = 'Press ~INPUT_CONTEXT~ to access the shop',
+  ['drugstore']           = 'Pharmacy',
+  ['valid_this_purchase'] = 'Validate your purchase',
+  ['not_enough_money']    = 'You do not have enough money',
+  ['bought']              = 'You have bought a ~b~',
+  ['use_firstaidkit']     = 'You used a ~y~First-Aid Kit~s~, and feel better.',
+  ['used_bandage']        = 'You used a ~g~bandage',
+  ['has_ambulance']       = '~r~You can not use this, there is EMS on duty.',
+  ['no_players']          = 'No players near',
+  ['revive_inprogress']   = 'Reviving',
+  ['revive_complete']     = 'You have revived',
+  ['isdead']              = 'Dead',
+  ['unconscious']         = 'Unconscious'
+}
